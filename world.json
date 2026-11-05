@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "name": "delvish",
+  "continents": [
+    {
+      "key": "main",
+      "name": "Main"
+    }
+  ],
+  "dungeons": []
+}
