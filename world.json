@@ -7,5 +7,12 @@
       "name": "Main"
     }
   ],
-  "dungeons": []
+  "dungeons": [],
+  "spawn": {
+    "continent": "main",
+    "at": [
+      2524.8,
+      7027.7
+    ]
+  }
 }
