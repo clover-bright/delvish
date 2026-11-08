@@ -84,10 +84,7 @@
    "scale": 1,
    "template": "bstru019",
    "footprint": {
-    "rect": [
-     2.4,
-     2.4
-    ]
+    "open": 1.7
    },
    "height": 0.84
   },
@@ -108,6 +105,362 @@
     ]
    },
    "height": 6
+  },
+  {
+   "type": "built:bcoas007",
+   "at": [
+    2946.65,
+    7039.61
+   ],
+   "y": 2.36,
+   "yaw": 5.895,
+   "scale": 1,
+   "footprint": {
+    "rect": [
+     5.69,
+     1.5
+    ]
+   },
+   "height": 4
+  },
+  {
+   "type": "built:bcoas007",
+   "at": [
+    2952.38,
+    7040.79
+   ],
+   "y": 2.36,
+   "yaw": 3.115,
+   "scale": 1,
+   "footprint": {
+    "rect": [
+     5.69,
+     1.5
+    ]
+   },
+   "height": 4
+  },
+  {
+   "type": "built:bcoas007",
+   "at": [
+    2958.3,
+    7042
+   ],
+   "y": 2.36,
+   "yaw": 5.782,
+   "scale": 1,
+   "footprint": {
+    "rect": [
+     5.69,
+     1.5
+    ]
+   },
+   "height": 4
+  },
+  {
+   "type": "built:bcoas007",
+   "at": [
+    2964.23,
+    7042.59
+   ],
+   "y": 2.36,
+   "yaw": 3.5722,
+   "scale": 1,
+   "footprint": {
+    "rect": [
+     5.69,
+     1.5
+    ]
+   },
+   "height": 4
+  },
+  {
+   "type": "built:bcoas007",
+   "at": [
+    2951.61,
+    7056.8
+   ],
+   "y": 2.36,
+   "yaw": 2.9586,
+   "scale": 1,
+   "footprint": {
+    "rect": [
+     5.69,
+     1.5
+    ]
+   },
+   "height": 4
+  },
+  {
+   "type": "built:bcoas007",
+   "at": [
+    2957.41,
+    7058.02
+   ],
+   "y": 2.36,
+   "yaw": 0.1747,
+   "scale": 1,
+   "footprint": {
+    "rect": [
+     5.69,
+     1.5
+    ]
+   },
+   "height": 4
+  },
+  {
+   "type": "built:bcoas007",
+   "at": [
+    2963.08,
+    7059.14
+   ],
+   "y": 2.36,
+   "yaw": 2.5382,
+   "scale": 1,
+   "footprint": {
+    "rect": [
+     5.69,
+     1.5
+    ]
+   },
+   "height": 4
+  },
+  {
+   "type": "built:bcoas007",
+   "at": [
+    2969.82,
+    7043.88
+   ],
+   "y": 2.36,
+   "yaw": 0.075,
+   "scale": 1,
+   "footprint": {
+    "rect": [
+     5.69,
+     1.5
+    ]
+   },
+   "height": 4
+  },
+  {
+   "type": "built:bcoas007",
+   "at": [
+    2967.74,
+    7059.95
+   ],
+   "y": 2.36,
+   "yaw": 6.0926,
+   "scale": 1,
+   "footprint": {
+    "rect": [
+     5.69,
+     1.5
+    ]
+   },
+   "height": 4
+  },
+  {
+   "type": "built:bcoas007",
+   "at": [
+    2975.54,
+    7044.28
+   ],
+   "y": 2.36,
+   "yaw": 2.9763,
+   "scale": 1,
+   "footprint": {
+    "rect": [
+     5.69,
+     1.5
+    ]
+   },
+   "height": 4
+  },
+  {
+   "type": "built:bcoas007",
+   "at": [
+    2974.01,
+    7061.19
+   ],
+   "y": 2.36,
+   "yaw": 2.9314,
+   "scale": 1,
+   "footprint": {
+    "rect": [
+     5.69,
+     1.5
+    ]
+   },
+   "height": 4
+  },
+  {
+   "type": "built:bcoas007",
+   "at": [
+    2980.17,
+    7045.29
+   ],
+   "y": 2.36,
+   "yaw": 6.0166,
+   "scale": 1,
+   "footprint": {
+    "rect": [
+     5.69,
+     1.5
+    ]
+   },
+   "height": 4
+  },
+  {
+   "type": "built:bcoas007",
+   "at": [
+    2978.39,
+    7061.72
+   ],
+   "y": 2.36,
+   "yaw": 0.3118,
+   "scale": 1,
+   "footprint": {
+    "rect": [
+     5.69,
+     1.5
+    ]
+   },
+   "height": 4
+  },
+  {
+   "type": "built:bcoas007",
+   "at": [
+    2984.6,
+    7063.01
+   ],
+   "y": 2.36,
+   "yaw": 2.4821,
+   "scale": 1,
+   "footprint": {
+    "rect": [
+     5.69,
+     1.5
+    ]
+   },
+   "height": 4
+  },
+  {
+   "type": "built:bcoas007",
+   "at": [
+    2986.52,
+    7047.09
+   ],
+   "y": 2.36,
+   "yaw": 2.9863,
+   "scale": 1,
+   "footprint": {
+    "rect": [
+     5.69,
+     1.5
+    ]
+   },
+   "height": 4
+  },
+  {
+   "type": "built:bcoas007",
+   "at": [
+    2996.68,
+    7048.61
+   ],
+   "y": 2.36,
+   "yaw": 2.4355,
+   "scale": 1,
+   "footprint": {
+    "rect": [
+     5.69,
+     1.5
+    ]
+   },
+   "height": 4
+  },
+  {
+   "type": "built:bcoas007",
+   "at": [
+    2993.17,
+    7064.24
+   ],
+   "y": 2.36,
+   "yaw": 2.6283,
+   "scale": 1,
+   "footprint": {
+    "rect": [
+     5.69,
+     1.5
+    ]
+   },
+   "height": 4
+  },
+  {
+   "type": "built:bcoas007",
+   "at": [
+    2987.82,
+    7063.31
+   ],
+   "y": 2.36,
+   "yaw": 0.167,
+   "scale": 1,
+   "footprint": {
+    "rect": [
+     5.69,
+     1.5
+    ]
+   },
+   "height": 4
+  },
+  {
+   "type": "built:bcoas007",
+   "at": [
+    2991.33,
+    7047.81
+   ],
+   "y": 2.36,
+   "yaw": 0.178,
+   "scale": 1,
+   "footprint": {
+    "rect": [
+     5.69,
+     1.5
+    ]
+   },
+   "height": 4
+  },
+  {
+   "type": "built:bcoas007",
+   "at": [
+    2944.57,
+    7054.96
+   ],
+   "y": 2.36,
+   "yaw": 6.2306,
+   "scale": 1,
+   "footprint": {
+    "rect": [
+     5.69,
+     1.5
+    ]
+   },
+   "height": 4
+  },
+  {
+   "type": "built:bcoas007",
+   "at": [
+    2966.37,
+    7072.32
+   ],
+   "yaw": 2.6056,
+   "scale": 1,
+   "footprint": {
+    "rect": [
+     5.69,
+     1.5
+    ]
+   },
+   "height": 4
   }
  ],
  "slabs": [
@@ -1841,6 +2194,38 @@
    },
    "risers": "floorboards",
    "steps": 10
+  },
+  {
+   "at": [
+    2997.71,
+    2.36,
+    7047.98
+   ],
+   "turn": [
+    -100,
+    0,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     17.77,
+     0
+    ],
+    [
+     17.77,
+     52.42
+    ],
+    [
+     0,
+     52.42
+    ]
+   ],
+   "thickness": 1,
+   "surface": "floorboards"
   }
  ]
 }
