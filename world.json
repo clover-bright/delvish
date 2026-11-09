@@ -11,8 +11,19 @@
   "spawn": {
     "continent": "main",
     "at": [
-      2524.8,
-      7027.7
+      -659.1,
+      4312.2
     ]
-  }
+  },
+  "graveyards": [
+    {
+      "id": "grav9gwl",
+      "name": "Graveyard 1",
+      "continent": "main",
+      "at": [
+        -643.5,
+        4306
+      ]
+    }
+  ]
 }
